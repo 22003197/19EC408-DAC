@@ -103,11 +103,13 @@ SQUARE
 
 
 
+
+
+
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
 SAWTOOTH WAVE
 
 <img width="450" height="291" alt="dac-img1" src="https://github.com/user-attachments/assets/f208d314-0431-438c-93bf-c41617d76bc8" />
-
 
 
 SQUARE WAVE
