@@ -15,10 +15,6 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ---
 
-
-
-
-
 ## ALGORITHM
 
 ### Measurement of Analog Voltage
@@ -89,22 +85,14 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 | Square    |   9.6     |      5.6    |
 ---
 
-
-
 ## Model Graph
 SAWTOOTH
 
  ![dac-1](https://github.com/user-attachments/assets/11e06afd-600b-498f-8747-82bdd637923b)
 
-
 SQUARE
 
 ![dac-2](https://github.com/user-attachments/assets/7d7a4a1a-2b53-4ec5-afb1-a187c52159af)
-
-
-
-
-
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
 SAWTOOTH WAVE
@@ -120,7 +108,3 @@ SQUARE WAVE
 ## Result
 
 Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
-
-
-
-
